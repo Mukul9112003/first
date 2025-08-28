@@ -1,4 +1,0 @@
-git config --global --add safe.directory 'D:/Machine learning'
-
-git init
-git remote add origin git@github.com:Mukul9112003/machine.git
